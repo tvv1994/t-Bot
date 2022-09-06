@@ -8,6 +8,7 @@ public class TBotApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TBotApplication.class, args);
+        System.out.println("Running app");
     }
 
 }
